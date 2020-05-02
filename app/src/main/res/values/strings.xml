@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+    <string name="priority">Priority</string>
+    <string name="add_note_description">Add Note Description.....</string>
+    <string name="add_new_note">Add New Note.....</string>
+</resources>
